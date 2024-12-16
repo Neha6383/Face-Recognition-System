@@ -6,8 +6,11 @@ This project leverages deep learning techniques for automating attendance manage
 
 ## Requirements
 python 3.6.2 
+
 WampServer 2.4 
+
 Mysql-For-Python 
+
 Mysql GUI 
 
 ## Installation
