@@ -6,9 +6,9 @@ This project leverages deep learning techniques for automating attendance manage
 https://www.researchgate.net/publication/341870242/figure/fig1/AS:898326396420096@1591189111227/Flow-chart-of-the-methodology-used-for-Face-Detection-and-Recognition.ppm
 
 ## Requirements
-python 3.6.2 
+python(version 3.6.2) 
 
-WampServer 2.4 
+WampServer(version 2.4) 
 
 Mysql-For-Python 
 
