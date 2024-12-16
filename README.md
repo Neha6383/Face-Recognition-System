@@ -3,6 +3,7 @@ This project leverages deep learning techniques for automating attendance manage
 
 ## Work Flow
 ![image](https://github.com/user-attachments/assets/25561704-890f-4612-9a63-fe68532a7e6f)
+https://www.researchgate.net/publication/341870242/figure/fig1/AS:898326396420096@1591189111227/Flow-chart-of-the-methodology-used-for-Face-Detection-and-Recognition.ppm
 
 ## Requirements
 python 3.6.2 
